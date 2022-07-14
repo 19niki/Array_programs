@@ -1,3 +1,5 @@
+package Git_Array_Programs;
+
 /*
  * To find square of all the elements in the array
  */

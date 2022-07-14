@@ -1,4 +1,7 @@
+package Git_Array_Programs;
+
 /*
+
  * To print all the duplicate present in the array
  */
 import java.util.HashSet;

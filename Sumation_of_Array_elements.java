@@ -1,4 +1,7 @@
+package Git_Array_Programs;
+
 /*
+
  * To find the summation of all the elements in the array
  * i/p:{10,20,30}
  * o/p:60

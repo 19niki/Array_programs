@@ -1,3 +1,5 @@
+package Git_Array_Programs;
+
 /*
  * To find the second largest element in the array 
  */

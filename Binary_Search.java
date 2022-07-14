@@ -1,3 +1,5 @@
+package Git_Array_Programs;
+
 
 public class Binary_Search {
 	public static void search(int a[])
@@ -6,6 +8,7 @@ public class Binary_Search {
 	    int last=a.length-1;
 	    int key=91;
 	    int mid=(start+last)/2;
+	    //System.out.println(mid);
 	    while(start<=last)
 	    {
 	    	if(a[mid]==key)
@@ -17,8 +20,13 @@ public class Binary_Search {
 	    	{
 	    		  start=mid+1;
 	    	}
+	    	
 	    	else
+	    	{
 	    		last=mid-1;
+	    	}
+	    	
+	    	
 	    		mid=(start+last)/2; 
 	    		
 	    }
@@ -30,8 +38,9 @@ public class Binary_Search {
 	    }
 	}
 	public static void main(String[] args) {
-		int a[]= {56,21,52,79,91};
+		int a[]= {56,21,91,79,91};
 		search(a);
+		System.out.println(1/2);
 	}
 
 }

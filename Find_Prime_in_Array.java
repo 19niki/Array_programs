@@ -1,3 +1,5 @@
+package Git_Array_Programs;
+
 /*
  * To print all the prime in an array
  */

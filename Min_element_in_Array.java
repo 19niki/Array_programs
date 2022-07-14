@@ -1,3 +1,5 @@
+package Git_Array_Programs;
+
 /*
  * To find minimum and second minimum element in the array
  */

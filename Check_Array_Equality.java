@@ -1,3 +1,5 @@
+package Git_Array_Programs;
+
 
 public class Check_Array_Equality {
 

@@ -1,4 +1,7 @@
+package Git_Array_Programs;
+
 /*
+
  * To remove the duplicate in the array
  * 
  */

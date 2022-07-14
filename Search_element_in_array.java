@@ -1,3 +1,5 @@
+package Git_Array_Programs;
+
 /*
  * Search an element in an array(Linear search)
  */
